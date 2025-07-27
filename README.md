@@ -1,7 +1,7 @@
 <h1>Hola 👋 Mi nombre es Cristian Martinez  </h1>
 <h2>Ingeniero especialista en software | Ingeniero electrónico</h2> 
 Estudiante de especialización en Ingeniería de Software e Ingeniero Electrónico con más de 3 años de experiencia como desarrollador web full stack. Lideró e implementó soluciones tecnológicas escalables y seguras, utilizando principalmente PHP, JavaScript y MySQL. Cuento con experiencia en el desarrollo de sistemas internos, integración de APIs RESTful y automatización de procesos críticos. Me apasiona aprender nuevas herramientas y lenguajes de programación, y me destaco por mi disciplina, liderazgo y capacidad de adaptación a entornos tecnológicos en evolución constante. Logró optimizar el rendimiento de plataformas digitales en un 40%, desarrolló informes automáticos en SAP y Crystal Reports, y lideró migraciones de servidores sin generar tiempos de inactividad. Entre mis logros, diseñé e implementé un módulo de mensajería institucional que permite la interacción directa entre padres de familia, personal académico y administrativo en un entorno seguro y eficiente. Con enfoque en la mejora continua, metodologías ágiles y liderazgo técnico, estoy comprometido con la entrega de soluciones innovadoras, de alta calidad y orientadas a resultados. 
-<p>🌍Estoy radicado en Colombia <br>
+<p>🌍Estoy radicado en Colombia - Bogotá <br>
   ✉️ Puedes contactarme en cristianfmm121134@gmail.com, www.linkedin.com/in/cristian-martinez-c100796 <br>
   🧠 Estoy aprendiendo Docker, ciberseguridad, plataformas de desarrollo <br> 🤝 Estoy abierto a colaborar en Paginas web - microservicios</p>
 
